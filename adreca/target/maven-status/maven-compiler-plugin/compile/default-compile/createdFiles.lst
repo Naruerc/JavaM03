@@ -1,0 +1,17 @@
+clients_proveidors\Adreca.class
+newpackage\persona.class
+clients_proveidors\DAO.class
+newpackage\main.class
+clients_proveidors\Clients.class
+clients_proveidors\Productes.class
+newpackage\adreca.class
+clients_proveidors\ComparadorStock.class
+clients_proveidors\Proveidors.class
+clients_proveidors\ComparadorNom.class
+clients_proveidors\ComparadorPreu.class
+clients_proveidors\Identificable.class
+clients_proveidors\IniciVistaControlador.class
+clients_proveidors\StockInsuficientException.class
+clients_proveidors\Persistable.class
+clients_proveidors\Packs.class
+clients_proveidors\Persona.class
